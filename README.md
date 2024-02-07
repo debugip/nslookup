@@ -7,7 +7,7 @@ This Python script takes a text file with one IP address per line as input, perf
 1. **Clone the Repository:**
 
     ```
-    git clone https://github.com/your_username/nslookup-script.git
+    git clone https://github.com/debugip/nslookup-script.git
     cd nslookup-script
     ```
 
