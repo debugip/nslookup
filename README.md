@@ -1,4 +1,4 @@
-# NSLookup Script
+# nslookup Script
 
 This Python script takes a text file with one IP address per line as input, performs an nslookup for each IP address, and writes the results into a CSV file.
 
